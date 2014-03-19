@@ -1,0 +1,546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C30CC30218D9D4E700B875B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30118D9D4E700B875B5 /* Foundation.framework */; };
+		C30CC30418D9D4E700B875B5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30318D9D4E700B875B5 /* CoreGraphics.framework */; };
+		C30CC30618D9D4E700B875B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30518D9D4E700B875B5 /* UIKit.framework */; };
+		C30CC30818D9D4E700B875B5 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30718D9D4E700B875B5 /* CoreData.framework */; };
+		C30CC30E18D9D4E700B875B5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C30CC30C18D9D4E700B875B5 /* InfoPlist.strings */; };
+		C30CC31018D9D4E700B875B5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC30F18D9D4E700B875B5 /* main.m */; };
+		C30CC31418D9D4E700B875B5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC31318D9D4E700B875B5 /* AppDelegate.m */; };
+		C30CC31918D9D4E700B875B5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C30CC31818D9D4E700B875B5 /* Images.xcassets */; };
+		C30CC32018D9D4E700B875B5 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC31F18D9D4E700B875B5 /* XCTest.framework */; };
+		C30CC32118D9D4E700B875B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30118D9D4E700B875B5 /* Foundation.framework */; };
+		C30CC32218D9D4E700B875B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30518D9D4E700B875B5 /* UIKit.framework */; };
+		C30CC32318D9D4E700B875B5 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C30CC30718D9D4E700B875B5 /* CoreData.framework */; };
+		C30CC32B18D9D4E700B875B5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C30CC32918D9D4E700B875B5 /* InfoPlist.strings */; };
+		C30CC32D18D9D4E700B875B5 /* MapsCustomRouteDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC32C18D9D4E700B875B5 /* MapsCustomRouteDemoTests.m */; };
+		C30CC33918D9D52300B875B5 /* sample1.txt in Resources */ = {isa = PBXBuildFile; fileRef = C30CC33618D9D52300B875B5 /* sample1.txt */; };
+		C30CC33A18D9D52300B875B5 /* sample2.txt in Resources */ = {isa = PBXBuildFile; fileRef = C30CC33718D9D52300B875B5 /* sample2.txt */; };
+		C30CC33B18D9D52300B875B5 /* sample3.txt in Resources */ = {isa = PBXBuildFile; fileRef = C30CC33818D9D52300B875B5 /* sample3.txt */; };
+		C30CC34818D9D66300B875B5 /* Place.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC34218D9D66300B875B5 /* Place.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		C30CC34918D9D66400B875B5 /* PlaceMark.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC34418D9D66300B875B5 /* PlaceMark.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		C30CC34A18D9D66400B875B5 /* MKPolylineEncodedString.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC34618D9D66300B875B5 /* MKPolylineEncodedString.m */; };
+		C30CC34E18D9D6CF00B875B5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC34C18D9D6CF00B875B5 /* ViewController.m */; };
+		C30CC34F18D9D6CF00B875B5 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C30CC34D18D9D6CF00B875B5 /* ViewController.xib */; };
+		C30CC35218D9D75A00B875B5 /* MapVCtr.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC35118D9D75A00B875B5 /* MapVCtr.m */; };
+		C30CC35418D9D78400B875B5 /* MapVCtr.xib in Resources */ = {isa = PBXBuildFile; fileRef = C30CC35318D9D78400B875B5 /* MapVCtr.xib */; };
+		C30CC35C18D9DF5800B875B5 /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC35718D9DF5800B875B5 /* GTMNSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		C30CC35D18D9DF5800B875B5 /* NSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC35918D9DF5800B875B5 /* NSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		C30CC35E18D9DF5800B875B5 /* NSString+XMLEntities.m in Sources */ = {isa = PBXBuildFile; fileRef = C30CC35B18D9DF5800B875B5 /* NSString+XMLEntities.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C30CC32418D9D4E700B875B5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C30CC2F618D9D4E700B875B5 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C30CC2FD18D9D4E700B875B5;
+			remoteInfo = MapsCustomRouteDemo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C30CC2FE18D9D4E700B875B5 /* MapsCustomRouteDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapsCustomRouteDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C30CC30118D9D4E700B875B5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C30CC30318D9D4E700B875B5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C30CC30518D9D4E700B875B5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C30CC30718D9D4E700B875B5 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		C30CC30B18D9D4E700B875B5 /* MapsCustomRouteDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MapsCustomRouteDemo-Info.plist"; sourceTree = "<group>"; };
+		C30CC30D18D9D4E700B875B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C30CC30F18D9D4E700B875B5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C30CC31118D9D4E700B875B5 /* MapsCustomRouteDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MapsCustomRouteDemo-Prefix.pch"; sourceTree = "<group>"; };
+		C30CC31218D9D4E700B875B5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		C30CC31318D9D4E700B875B5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C30CC31818D9D4E700B875B5 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		C30CC31E18D9D4E700B875B5 /* MapsCustomRouteDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapsCustomRouteDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C30CC31F18D9D4E700B875B5 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		C30CC32818D9D4E700B875B5 /* MapsCustomRouteDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MapsCustomRouteDemoTests-Info.plist"; sourceTree = "<group>"; };
+		C30CC32A18D9D4E700B875B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C30CC32C18D9D4E700B875B5 /* MapsCustomRouteDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MapsCustomRouteDemoTests.m; sourceTree = "<group>"; };
+		C30CC33618D9D52300B875B5 /* sample1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sample1.txt; sourceTree = "<group>"; };
+		C30CC33718D9D52300B875B5 /* sample2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sample2.txt; sourceTree = "<group>"; };
+		C30CC33818D9D52300B875B5 /* sample3.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sample3.txt; sourceTree = "<group>"; };
+		C30CC34118D9D66300B875B5 /* Place.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Place.h; sourceTree = "<group>"; };
+		C30CC34218D9D66300B875B5 /* Place.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Place.m; sourceTree = "<group>"; };
+		C30CC34318D9D66300B875B5 /* PlaceMark.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceMark.h; sourceTree = "<group>"; };
+		C30CC34418D9D66300B875B5 /* PlaceMark.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceMark.m; sourceTree = "<group>"; };
+		C30CC34518D9D66300B875B5 /* MKPolylineEncodedString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKPolylineEncodedString.h; sourceTree = "<group>"; };
+		C30CC34618D9D66300B875B5 /* MKPolylineEncodedString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKPolylineEncodedString.m; sourceTree = "<group>"; };
+		C30CC34B18D9D6CF00B875B5 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		C30CC34C18D9D6CF00B875B5 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		C30CC34D18D9D6CF00B875B5 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		C30CC35018D9D75A00B875B5 /* MapVCtr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapVCtr.h; sourceTree = "<group>"; };
+		C30CC35118D9D75A00B875B5 /* MapVCtr.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapVCtr.m; sourceTree = "<group>"; };
+		C30CC35318D9D78400B875B5 /* MapVCtr.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MapVCtr.xib; sourceTree = "<group>"; };
+		C30CC35618D9DF5800B875B5 /* GTMNSString+HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GTMNSString+HTML.h"; sourceTree = "<group>"; };
+		C30CC35718D9DF5800B875B5 /* GTMNSString+HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "GTMNSString+HTML.m"; sourceTree = "<group>"; };
+		C30CC35818D9DF5800B875B5 /* NSString+HTML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HTML.h"; sourceTree = "<group>"; };
+		C30CC35918D9DF5800B875B5 /* NSString+HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HTML.m"; sourceTree = "<group>"; };
+		C30CC35A18D9DF5800B875B5 /* NSString+XMLEntities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+XMLEntities.h"; sourceTree = "<group>"; };
+		C30CC35B18D9DF5800B875B5 /* NSString+XMLEntities.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+XMLEntities.m"; sourceTree = "<group>"; };
+		C30CC36018D9E14600B875B5 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C30CC2FB18D9D4E700B875B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC30418D9D4E700B875B5 /* CoreGraphics.framework in Frameworks */,
+				C30CC30818D9D4E700B875B5 /* CoreData.framework in Frameworks */,
+				C30CC30618D9D4E700B875B5 /* UIKit.framework in Frameworks */,
+				C30CC30218D9D4E700B875B5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C30CC31B18D9D4E700B875B5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC32018D9D4E700B875B5 /* XCTest.framework in Frameworks */,
+				C30CC32318D9D4E700B875B5 /* CoreData.framework in Frameworks */,
+				C30CC32218D9D4E700B875B5 /* UIKit.framework in Frameworks */,
+				C30CC32118D9D4E700B875B5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C30CC2F518D9D4E700B875B5 = {
+			isa = PBXGroup;
+			children = (
+				C30CC30918D9D4E700B875B5 /* MapsCustomRouteDemo */,
+				C30CC32618D9D4E700B875B5 /* MapsCustomRouteDemoTests */,
+				C30CC30018D9D4E700B875B5 /* Frameworks */,
+				C30CC2FF18D9D4E700B875B5 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C30CC2FF18D9D4E700B875B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC2FE18D9D4E700B875B5 /* MapsCustomRouteDemo.app */,
+				C30CC31E18D9D4E700B875B5 /* MapsCustomRouteDemoTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C30CC30018D9D4E700B875B5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC30118D9D4E700B875B5 /* Foundation.framework */,
+				C30CC30318D9D4E700B875B5 /* CoreGraphics.framework */,
+				C30CC30518D9D4E700B875B5 /* UIKit.framework */,
+				C30CC30718D9D4E700B875B5 /* CoreData.framework */,
+				C30CC31F18D9D4E700B875B5 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C30CC30918D9D4E700B875B5 /* MapsCustomRouteDemo */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC31218D9D4E700B875B5 /* AppDelegate.h */,
+				C30CC31318D9D4E700B875B5 /* AppDelegate.m */,
+				C30CC34B18D9D6CF00B875B5 /* ViewController.h */,
+				C30CC34C18D9D6CF00B875B5 /* ViewController.m */,
+				C30CC34D18D9D6CF00B875B5 /* ViewController.xib */,
+				C30CC35018D9D75A00B875B5 /* MapVCtr.h */,
+				C30CC35118D9D75A00B875B5 /* MapVCtr.m */,
+				C30CC35318D9D78400B875B5 /* MapVCtr.xib */,
+				C30CC31818D9D4E700B875B5 /* Images.xcassets */,
+				C30CC30A18D9D4E700B875B5 /* Supporting Files */,
+			);
+			path = MapsCustomRouteDemo;
+			sourceTree = "<group>";
+		};
+		C30CC30A18D9D4E700B875B5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC36018D9E14600B875B5 /* GTMDefines.h */,
+				C30CC35618D9DF5800B875B5 /* GTMNSString+HTML.h */,
+				C30CC35718D9DF5800B875B5 /* GTMNSString+HTML.m */,
+				C30CC35818D9DF5800B875B5 /* NSString+HTML.h */,
+				C30CC35918D9DF5800B875B5 /* NSString+HTML.m */,
+				C30CC35A18D9DF5800B875B5 /* NSString+XMLEntities.h */,
+				C30CC35B18D9DF5800B875B5 /* NSString+XMLEntities.m */,
+				C30CC33D18D9D66300B875B5 /* PolyLine */,
+				C30CC33618D9D52300B875B5 /* sample1.txt */,
+				C30CC33718D9D52300B875B5 /* sample2.txt */,
+				C30CC33818D9D52300B875B5 /* sample3.txt */,
+				C30CC30B18D9D4E700B875B5 /* MapsCustomRouteDemo-Info.plist */,
+				C30CC30C18D9D4E700B875B5 /* InfoPlist.strings */,
+				C30CC30F18D9D4E700B875B5 /* main.m */,
+				C30CC31118D9D4E700B875B5 /* MapsCustomRouteDemo-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C30CC32618D9D4E700B875B5 /* MapsCustomRouteDemoTests */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC32C18D9D4E700B875B5 /* MapsCustomRouteDemoTests.m */,
+				C30CC32718D9D4E700B875B5 /* Supporting Files */,
+			);
+			path = MapsCustomRouteDemoTests;
+			sourceTree = "<group>";
+		};
+		C30CC32718D9D4E700B875B5 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC32818D9D4E700B875B5 /* MapsCustomRouteDemoTests-Info.plist */,
+				C30CC32918D9D4E700B875B5 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		C30CC33D18D9D66300B875B5 /* PolyLine */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC34018D9D66300B875B5 /* Map Library */,
+				C30CC34518D9D66300B875B5 /* MKPolylineEncodedString.h */,
+				C30CC34618D9D66300B875B5 /* MKPolylineEncodedString.m */,
+			);
+			path = PolyLine;
+			sourceTree = "<group>";
+		};
+		C30CC34018D9D66300B875B5 /* Map Library */ = {
+			isa = PBXGroup;
+			children = (
+				C30CC34118D9D66300B875B5 /* Place.h */,
+				C30CC34218D9D66300B875B5 /* Place.m */,
+				C30CC34318D9D66300B875B5 /* PlaceMark.h */,
+				C30CC34418D9D66300B875B5 /* PlaceMark.m */,
+			);
+			path = "Map Library";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C30CC2FD18D9D4E700B875B5 /* MapsCustomRouteDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C30CC33018D9D4E700B875B5 /* Build configuration list for PBXNativeTarget "MapsCustomRouteDemo" */;
+			buildPhases = (
+				C30CC2FA18D9D4E700B875B5 /* Sources */,
+				C30CC2FB18D9D4E700B875B5 /* Frameworks */,
+				C30CC2FC18D9D4E700B875B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MapsCustomRouteDemo;
+			productName = MapsCustomRouteDemo;
+			productReference = C30CC2FE18D9D4E700B875B5 /* MapsCustomRouteDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C30CC31D18D9D4E700B875B5 /* MapsCustomRouteDemoTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C30CC33318D9D4E700B875B5 /* Build configuration list for PBXNativeTarget "MapsCustomRouteDemoTests" */;
+			buildPhases = (
+				C30CC31A18D9D4E700B875B5 /* Sources */,
+				C30CC31B18D9D4E700B875B5 /* Frameworks */,
+				C30CC31C18D9D4E700B875B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C30CC32518D9D4E700B875B5 /* PBXTargetDependency */,
+			);
+			name = MapsCustomRouteDemoTests;
+			productName = MapsCustomRouteDemoTests;
+			productReference = C30CC31E18D9D4E700B875B5 /* MapsCustomRouteDemoTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C30CC2F618D9D4E700B875B5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = atonapps;
+				TargetAttributes = {
+					C30CC31D18D9D4E700B875B5 = {
+						TestTargetID = C30CC2FD18D9D4E700B875B5;
+					};
+				};
+			};
+			buildConfigurationList = C30CC2F918D9D4E700B875B5 /* Build configuration list for PBXProject "MapsCustomRouteDemo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C30CC2F518D9D4E700B875B5;
+			productRefGroup = C30CC2FF18D9D4E700B875B5 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C30CC2FD18D9D4E700B875B5 /* MapsCustomRouteDemo */,
+				C30CC31D18D9D4E700B875B5 /* MapsCustomRouteDemoTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C30CC2FC18D9D4E700B875B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC35418D9D78400B875B5 /* MapVCtr.xib in Resources */,
+				C30CC33A18D9D52300B875B5 /* sample2.txt in Resources */,
+				C30CC33B18D9D52300B875B5 /* sample3.txt in Resources */,
+				C30CC33918D9D52300B875B5 /* sample1.txt in Resources */,
+				C30CC30E18D9D4E700B875B5 /* InfoPlist.strings in Resources */,
+				C30CC34F18D9D6CF00B875B5 /* ViewController.xib in Resources */,
+				C30CC31918D9D4E700B875B5 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C30CC31C18D9D4E700B875B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC32B18D9D4E700B875B5 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C30CC2FA18D9D4E700B875B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC34E18D9D6CF00B875B5 /* ViewController.m in Sources */,
+				C30CC31418D9D4E700B875B5 /* AppDelegate.m in Sources */,
+				C30CC35E18D9DF5800B875B5 /* NSString+XMLEntities.m in Sources */,
+				C30CC34918D9D66400B875B5 /* PlaceMark.m in Sources */,
+				C30CC34A18D9D66400B875B5 /* MKPolylineEncodedString.m in Sources */,
+				C30CC35D18D9DF5800B875B5 /* NSString+HTML.m in Sources */,
+				C30CC31018D9D4E700B875B5 /* main.m in Sources */,
+				C30CC35C18D9DF5800B875B5 /* GTMNSString+HTML.m in Sources */,
+				C30CC34818D9D66300B875B5 /* Place.m in Sources */,
+				C30CC35218D9D75A00B875B5 /* MapVCtr.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C30CC31A18D9D4E700B875B5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C30CC32D18D9D4E700B875B5 /* MapsCustomRouteDemoTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C30CC32518D9D4E700B875B5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C30CC2FD18D9D4E700B875B5 /* MapsCustomRouteDemo */;
+			targetProxy = C30CC32418D9D4E700B875B5 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C30CC30C18D9D4E700B875B5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C30CC30D18D9D4E700B875B5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C30CC32918D9D4E700B875B5 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C30CC32A18D9D4E700B875B5 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C30CC32E18D9D4E700B875B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C30CC32F18D9D4E700B875B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C30CC33118D9D4E700B875B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapsCustomRouteDemo/MapsCustomRouteDemo-Prefix.pch";
+				INFOPLIST_FILE = "MapsCustomRouteDemo/MapsCustomRouteDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C30CC33218D9D4E700B875B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapsCustomRouteDemo/MapsCustomRouteDemo-Prefix.pch";
+				INFOPLIST_FILE = "MapsCustomRouteDemo/MapsCustomRouteDemo-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		C30CC33418D9D4E700B875B5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MapsCustomRouteDemo.app/MapsCustomRouteDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapsCustomRouteDemo/MapsCustomRouteDemo-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "MapsCustomRouteDemoTests/MapsCustomRouteDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		C30CC33518D9D4E700B875B5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/MapsCustomRouteDemo.app/MapsCustomRouteDemo";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MapsCustomRouteDemo/MapsCustomRouteDemo-Prefix.pch";
+				INFOPLIST_FILE = "MapsCustomRouteDemoTests/MapsCustomRouteDemoTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C30CC2F918D9D4E700B875B5 /* Build configuration list for PBXProject "MapsCustomRouteDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C30CC32E18D9D4E700B875B5 /* Debug */,
+				C30CC32F18D9D4E700B875B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C30CC33018D9D4E700B875B5 /* Build configuration list for PBXNativeTarget "MapsCustomRouteDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C30CC33118D9D4E700B875B5 /* Debug */,
+				C30CC33218D9D4E700B875B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		C30CC33318D9D4E700B875B5 /* Build configuration list for PBXNativeTarget "MapsCustomRouteDemoTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C30CC33418D9D4E700B875B5 /* Debug */,
+				C30CC33518D9D4E700B875B5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C30CC2F618D9D4E700B875B5 /* Project object */;
+}

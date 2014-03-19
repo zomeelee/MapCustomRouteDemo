@@ -1,0 +1,529 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 53.1809498,
+               "lng" : 4.8588927
+            },
+            "southwest" : {
+               "lat" : 53.0052198,
+               "lng" : 4.7341136
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "25.2 km",
+                  "value" : 25228
+               },
+               "duration" : {
+                  "text" : "1 hour 13 mins",
+                  "value" : 4375
+               },
+               "end_address" : "Mokweg 18, Dunes of Texel National Park, 1797 SB Den Hoorn Texel, The Netherlands",
+               "end_location" : {
+                  "lat" : 53.0052198,
+                  "lng" : 4.7509729
+               },
+               "start_address" : "Vuurtorenweg 189, Dunes of Texel National Park, 1795 LL De Cocksdorp, The Netherlands",
+               "start_location" : {
+                  "lat" : 53.1809054,
+                  "lng" : 4.853272899999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 401
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : 53.1794521,
+                        "lng" : 4.857999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eVuurtorenweg\u003c/b\u003e toward \u003cb\u003eStengweg\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "u{qcI}{r\\?cIG_D@gA@UBSPs@RUTUrB}BrB}B"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1809054,
+                        "lng" : 4.853272899999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 178
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 53.1779417,
+                        "lng" : 4.8588927
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eStengweg\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "qrqcIoys\\jDkBlB{@HEHC"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1794521,
+                        "lng" : 4.857999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.9 km",
+                        "value" : 7920
+                     },
+                     "duration" : {
+                        "text" : "23 mins",
+                        "value" : 1350
+                     },
+                     "end_location" : {
+                        "lat" : 53.1194082,
+                        "lng" : 4.8033515
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eZanddijk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ciqcIa_t\\@b@CrB@V?NJf@DNDJNb@f@tAPh@zAnJFTFPNNhBfAd@\\PPLJHRNVLLhBdB^d@FPNv@Ln@R^z@r@p@l@l@RlBd@n@L\\T\\XRTT^`@rAvBnHvClFLZPr@L^j@z@p@`BRf@`@hAf@bBHTP`@`@d@l@t@v@hATRHDHBTFVEz@MdFCdAAbA?`CC`CE^FNFb@Rh@P~@LZBJ@RLr@|@JBv@OXEJBPB^\\ZFn@DnAFb@Fb@FhCf@jCf@`EP`EP^XP^`@`Ab@t@bAfAPLn@NbBL|@Hd@F`@Gl@M|@i@ZOj@DTFH@PCLKJOPUZQ\\OREVA\\FHBJF^^JFf@NPF`Ar@TJJDTDJ?D@H@z@p@^b@Xh@p@vAFHHDZBBBHFBFDHd@~ALXPXFFVRNLDFDFBJ\\|AL\\HNFFH@L?RGdAc@RINCHBFDJFVXTPRHr@P^JLHFHHVDTL`ANd@LVRVFBHBH@FALELKLIL?HFDDLPJVP`@^z@FT^jAPb@RVpCxBbDbDfBhBtCxCdA|@`@b@hBhCt@|@t@|@nDlE~A~BvBhDb@l@zFnG~@pAn@fA|@zAj@h@b@VlBhCx@x@xAfCzAfCfB~B`AhAhCvC~@fAbIdJvBfCh@p@\\Th@\\~FvHh@t@FLJRNTh@d@|AfALJTVb@j@pAdBxHzJR\\`@dA`@t@lC|CbFbGpBrBhBrChCvCfA|@hEdFp@t@fBjBfC|CdAnAZ^BBJD"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1779417,
+                        "lng" : 4.8588927
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.0 km",
+                        "value" : 2036
+                     },
+                     "duration" : {
+                        "text" : "6 mins",
+                        "value" : 342
+                     },
+                     "end_location" : {
+                        "lat" : 53.1056096,
+                        "lng" : 4.7857617
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eZanddijk\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "i{ecI}ci\\BDDDBFBBHLdH`IpDfEp@x@DF@H@F@P@LDTBLJTFHPTRXVXPPj@p@hAxAr@z@dApAl@r@f@n@PTV\\T\\PXLNPPTTJJXZv@bAV^`@l@Xd@HLLTRV\\XJJHJFNJVJNHLLVN^LRFJJFDBHDHBJ@J?RDH@LBHBJHHJpC|DTZd@r@f@`AP\\T\\FPDN`@jBLn@F^Jd@N`@JZl@nABDBDBLBLBLDd@R~ABTBRLx@Hf@DRFXFZDJBJFRLXDNN`@JZFPDFHPV`@Vd@Rb@Zd@RXZ^JNFJHJNPFDDBF@p@Ap@?HAJCHGHKFGHGLGTIlAU"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1194082,
+                        "lng" : 4.8033515
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 905
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 187
+                     },
+                     "end_location" : {
+                        "lat" : 53.1036254,
+                        "lng" : 4.772668299999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRuigendijk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aeccI_ve\\Jz@vAbSdAfNL`AxAnIHh@Fr@Fz@`@|M@`@HlAFbADXBZF^D^Fb@Db@@J@H"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1056096,
+                        "lng" : 4.7857617
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 322
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 53.1033725,
+                        "lng" : 4.7678733
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBoodtlaan\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uxbcIedc\\F`AH|E?P@PF`EFbEFvDF|@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1036254,
+                        "lng" : 4.772668299999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 590
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 111
+                     },
+                     "end_location" : {
+                        "lat" : 53.100184,
+                        "lng" : 4.7613753
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eBadweg\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "awbcIefb\\GJB`@@zAx@jGn@rCfBxCbAxAdAxAr@jAp@hAz@nCt@~@jAr@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1033725,
+                        "lng" : 4.7678733
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "9 m",
+                        "value" : 9
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 53.1001577,
+                        "lng" : 4.7615101
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eBadweg\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ccbcIs}`\\@K@M"
+                     },
+                     "start_location" : {
+                        "lat" : 53.100184,
+                        "lng" : 4.7613753
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.8 km",
+                        "value" : 2750
+                     },
+                     "duration" : {
+                        "text" : "8 mins",
+                        "value" : 461
+                     },
+                     "end_location" : {
+                        "lat" : 53.0771943,
+                        "lng" : 4.7488735
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRuijslaan\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "_cbcIm~`\\xCtBvCvB~@n@~@n@lA|@d@XVPXPvAbAvAdArAt@~BHxDBzDB^B\\BlA?lA?hADjADz@R|@RzBnAjBjBvIbJrC|BhIxGhIxGpMdKvAp@v@TnL`DfB?bDSn@e@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1001577,
+                        "lng" : 4.7615101
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 891
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : 53.0719755,
+                        "lng" : 4.742564199999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRandweg\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ms}bImo~[RRDBH@~DIz@EXEd@KlAa@d@Qb@Qp@IZ@VDHDJDFD~ErEvA`J^tE|@~O"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0771943,
+                        "lng" : 4.7488735
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "10 m",
+                        "value" : 10
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 53.0720438,
+                        "lng" : 4.7424586
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{r|bI_h}[EHEH"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0719755,
+                        "lng" : 4.742564199999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.4 km",
+                        "value" : 2381
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 417
+                     },
+                     "end_location" : {
+                        "lat" : 53.0534313,
+                        "lng" : 4.746538
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eWesterslag\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "gs|bIkg}[Gx@Fl@Hh@X`BfAfCnCfClBr@zAFz@Ir@AfDjBbDYxBw@`AEp@[zBaC~@sAv@a@jAiBpA{@xAoBh@Q`ARrAf@\\d@v@lBt@v@F?H@hAKpAm@l@cAv@mBVYX[zAmAzAmAvA_AvA_ApAeAnAgArAsAnAUdAKrEn@`@Dt@o@~BiD~BiBfAa@TH\\`@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0720438,
+                        "lng" : 4.7424586
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7 m",
+                        "value" : 7
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 1
+                     },
+                     "end_location" : {
+                        "lat" : 53.0533934,
+                        "lng" : 4.7466279
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eWesterslag\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "}~xbI{`~[BGBI"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0534313,
+                        "lng" : 4.746538
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 550
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : 53.05006119999999,
+                        "lng" : 4.7414874
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRozendijk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "u~xbIma~[zBpFlExJX`An@lBb@|@dAfBr@lCNDJCjAmA"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0533934,
+                        "lng" : 4.7466279
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1015
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 184
+                     },
+                     "end_location" : {
+                        "lat" : 53.0425716,
+                        "lng" : 4.7341136
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eRozendijk\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "{ixbIia}[~AzAbA|BbD~JhAtB`ArARVfBvAzEt@lG~@hCt@tBlBnAhCnAjC"
+                     },
+                     "start_location" : {
+                        "lat" : 53.05006119999999,
+                        "lng" : 4.7414874
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 255
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : 53.0409938,
+                        "lng" : 4.7364633
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJan Ayeslag\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a{vbIes{[z@gDZcCvAkBxA_Ap@@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0425716,
+                        "lng" : 4.7341136
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1873
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 318
+                     },
+                     "end_location" : {
+                        "lat" : 53.02571950000001,
+                        "lng" : 4.7425279
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRommelpot\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "eqvbI{a|[BZBFB@HDp@^`Br@FFV\\PZj@fAX\\NJTNLDRDVBV@ZA\\A\\Eh@MfAa@dAg@XMJCdAAL@`A?XCPEdB}AtAuAvAuAl@q@l@s@hCgC`A]zACdAThAHb@@pAc@bCkAtBcA|@IlA[fDeBtAkAv@}@v@}@h@cAh@cAt@yAtDuDd@Cj@?v@D"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0409938,
+                        "lng" : 4.7364633
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 385
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 72
+                     },
+                     "end_location" : {
+                        "lat" : 53.02457889999999,
+                        "lng" : 4.747936699999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKlif\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wqsbIyg}[PaDDg@Fu@Fi@BWv@{EFWFWnAqH^yD"
+                     },
+                     "start_location" : {
+                        "lat" : 53.02571950000001,
+                        "lng" : 4.7425279
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 231
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 53.0238641,
+                        "lng" : 4.750699099999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eNaalrand\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "sjsbIsi~[^@JIVo@Vy@Xw@F_@JmAE{AE{A?g@Ag@HCHC"
+                     },
+                     "start_location" : {
+                        "lat" : 53.02457889999999,
+                        "lng" : 4.747936699999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2519
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 443
+                     },
+                     "end_location" : {
+                        "lat" : 53.0052198,
+                        "lng" : 4.7509729
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMokweg\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "cfsbI{z~[r@]t@]tAc@jBu@rB_AbBeAbBo@hAQdA?x@TRR\\\\JRNR^j@`@j@PTDFFFB@BB\\TlAh@xK|EzBpAfGjDpAt@`Ap@LJLL~@dARXJZNh@Ff@DPBRD`@NxBH|AFtAJlAJh@Nl@BPFLHT^r@XPvAXn@?RCLGFCDCDE`@k@bE}FrGiJfReWX_@NU"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0238641,
+                        "lng" : 4.750699099999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "u{qcI}{r\\GcNB}ATgAh@k@fF{FxGgDRIAvCR~AnAnDbBdKV`@nDbCXj@vBrBf@v@\\fBR^z@r@p@l@l@R|Cr@z@n@h@t@xCbKdDhG^rA|A|Ct@pBp@xBr@fAdB~B^X^JrASpNI`CE^Fr@ZhB^f@DfAjAbAKd@Ap@`@~D\\lDn@jCf@`EP`EP^Xr@`Bb@t@bAfA`A\\`DVd@F`@Gl@M|@i@ZOj@D^H^O\\e@x@a@j@Gf@Jj@f@r@VtBlAp@HzAtAjA`CPN^Fx@xB^r@^Z^h@j@zBPVV@xAk@b@MPHb@`@h@ZrA\\TRl@tC`@n@PFP?ZQZINLjAfCf@`Bd@z@pCxBbDbD|FbGfB`B~CfEdFjGvEhH~G|HnBxC|@zAj@h@b@VlBhCx@x@xAfCbEfGnQnS`DxDfAr@hHlJR`@x@z@jBrAdMdPt@bB`@t@lC|CtIvJhBrChCvCfA|@hEdFxC`DlFpG~NtPv@`ABPLbAx@nA~CvDnEpFpAjB`AbAjClDdA`Bz@`An@lAp@fAd@Nv@JTLzChEtBnD\\n@f@zBp@vC`AvBPnAhAtHhAdD~@`B~AbCl@x@LHx@?z@ATKh@c@bB_@bB~TrAhPbBxJr@nRZfEZfCBTP~GPhLNtFCl@@zAx@jGn@rCfBxChCrDdBtCz@nCt@~@jAr@@K@MxCtBvEfDjExCpBtAjDzBtOTbGHjADz@R|@RzBnAbMnM|MvKzW~SnCfAnL`DfB?bDSn@e@XVhEGtAKrBm@hAc@lAGt@V~ErEvA`J|AtVKRGx@Fl@b@jCfAfCnCfClBr@zAFnBKfDjBbDYxBw@`AEp@[zBaC~@sAv@a@jAiBpA{@xAoBh@QtCz@tArC|@v@rAIpAm@l@cAv@mBVYtBiBrDmChDeCbD{CtCa@tFt@t@o@~BiD~BiBfAa@TH\\`@FQhIjRhAnDhBdDr@lCNDvAqA~AzAbA|BbD~JhAtBtAjBfBvAzEt@lG~@hCt@tBlBnAhCnAjCz@gDZcCvAkBxA_Ap@@Fb@LFrCrA^d@|@bBh@h@b@Tj@HnBGpBo@~Au@`DCj@IzDsD|HcI`A]zACnC^b@@pAc@xFoCjCe@fDeBtAkAnB{BrAgCt@yAtDuDpACv@DPaDL}AjAuHvAiI^yD^@b@y@p@qBRmBKwDAoARGhB{@`EyArB_AbBeAbBo@hAQdA?x@Tp@p@|A~Bb@f@hO`HbK|FrCfBZXrA~Ah@~Bb@lGRbDZvAt@hBpBj@bAC`@UdFiHzZob@h@u@"
+         },
+         "summary" : "Ruijslaan",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

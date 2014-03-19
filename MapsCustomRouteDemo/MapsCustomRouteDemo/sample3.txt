@@ -1,0 +1,287 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 53.1635621,
+               "lng" : 4.876776599999999
+            },
+            "southwest" : {
+               "lat" : 53.0494341,
+               "lng" : 4.783919099999999
+            }
+         },
+         "copyrights" : "Map data ©2014 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "15.3 km",
+                  "value" : 15319
+               },
+               "duration" : {
+                  "text" : "47 mins",
+                  "value" : 2805
+               },
+               "end_address" : "Pontweg, The Netherlands",
+               "end_location" : {
+                  "lat" : 53.0494341,
+                  "lng" : 4.7914097
+               },
+               "start_address" : "Stengweg, 1795 De Cocksdorp, The Netherlands",
+               "start_location" : {
+                  "lat" : 53.1635621,
+                  "lng" : 4.875287399999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 639
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 115
+                     },
+                     "end_location" : {
+                        "lat" : 53.1578871,
+                        "lng" : 4.876776599999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eStengweg\u003c/b\u003e toward \u003cb\u003eLangeveldstraat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "goncIqew\\fNuB~AUhB[dBWvDk@j@MZINGv@WLE"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1635621,
+                        "lng" : 4.875287399999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 582
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : 53.1549771,
+                        "lng" : 4.8699359
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKikkertstraat\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykmcI{nw\\Bv@Bb@?t@DJBJBZHfALdANnATlAH`@Jd@d@~AnA|DTf@Rf@Rf@Vh@d@t@b@v@Zb@NNVR^TFFDHFNDLHRNVj@t@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1578871,
+                        "lng" : 4.876776599999999
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 468
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 81
+                     },
+                     "end_location" : {
+                        "lat" : 53.15152029999999,
+                        "lng" : 4.8659368
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eMolenlaan\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "sylcIcdv\\HHHFLHLRNPnCfDnChDfI|JJL"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1549771,
+                        "lng" : 4.8699359
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "42 m",
+                        "value" : 42
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : 53.1513856,
+                        "lng" : 4.8653704
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eMolenlaan\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_dlcIcku\\N^DR@PBTAT"
+                     },
+                     "start_location" : {
+                        "lat" : 53.15152029999999,
+                        "lng" : 4.8659368
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.2 km",
+                        "value" : 7244
+                     },
+                     "duration" : {
+                        "text" : "22 mins",
+                        "value" : 1307
+                     },
+                     "end_location" : {
+                        "lat" : 53.0999653,
+                        "lng" : 4.8011594
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003ePostweg\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eclcIqgu\\HBF@FBHBJ@J@FDLFl@p@hD`ENRBHzDxExBnCxBpCFDFDf@j@f@j@d@l@f@l@xHpJxHrJ~KdN~KdNhC`DfC~CtF~GtF~GJLDHDFlDjEjDlE~D`F|D~EtDtErDtEJLJL\\b@^b@dJhLdJfL|AlBzAnBt@|@r@|@@J@Jz@dAz@dAt@t@RNdEbFdEdFHJHHxAhBxAfBpBbCrBdCXZZ\\`@f@`@h@\\b@\\`@l@r@n@r@NPNPrAfBrAhBfC~CfC~C~GlI~@fA~@nAfGzHbApAdApA~ApB`BpBnCjDPTx@z@x@|@h@z@X^b@h@do@pw@tAvBr@`BZhAV|AHlABp@B|@JbI?T?nAApA"
+                     },
+                     "start_location" : {
+                        "lat" : 53.1513856,
+                        "lng" : 4.8653704
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.0 km",
+                        "value" : 3951
+                     },
+                     "duration" : {
+                        "text" : "12 mins",
+                        "value" : 720
+                     },
+                     "end_location" : {
+                        "lat" : 53.0668584,
+                        "lng" : 4.7851193
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eNieuwlanderweg\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "yabcIgvh\\DBDDFHBJ@L?JALAHCFV\\RZTVZXNNJHNJLHTLRJf@Zb@R@@d@TfBt@l@Tj@Tf@Xf@V~FvC~FxCxInEzIlEjQdJlQdJ`@P`@RB@B@vj@pY\\R^VPNXf@PXHPPd@Tl@Xv@^bAVb@b@f@VVTPTLZN^J\\HdK~ARDd@BX?d@CjBGdHYdCMzH[x@Ed@ELAb@K`@Kd@SZQd@[\\Y^]"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0999653,
+                        "lng" : 4.8011594
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 733
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : 53.061145,
+                        "lng" : 4.7905086
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eKogerweg\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "{r{bI_re\\LKLKf@a@f@a@tPqMxGyIxAeBJKXYf@YRG"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0668584,
+                        "lng" : 4.7851193
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 118
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : 53.06016049999999,
+                        "lng" : 4.7900727
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKogerstraat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "cozbIusf\\XEVCJ@N@RDTFTNJHh@t@"
+                     },
+                     "start_location" : {
+                        "lat" : 53.061145,
+                        "lng" : 4.7905086
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 452
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 77
+                     },
+                     "end_location" : {
+                        "lat" : 53.0581597,
+                        "lng" : 4.7841904
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAkenbuurtsweg\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "_izbI}pf\\^dA`@nAfFjUr@~Cp@tC"
+                     },
+                     "start_location" : {
+                        "lat" : 53.06016049999999,
+                        "lng" : 4.7900727
+                     },
+                     "travel_mode" : "BICYCLING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1090
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 218
+                     },
+                     "end_location" : {
+                        "lat" : 53.0494341,
+                        "lng" : 4.7914097
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003ePontweg\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "o|ybIele\\DEDCD?F@D@FBDD`B_BlA_AxAiA|H_GjB_BjCgC|IqIbCkB~DkC`EkC"
+                     },
+                     "start_location" : {
+                        "lat" : 53.0581597,
+                        "lng" : 4.7841904
+                     },
+                     "travel_mode" : "BICYCLING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "goncIqew\\vW_EbFy@j@QdA]FzA?t@DJFf@VlCd@|CTfAtB|GtA`DhAlBj@r@v@h@LPL\\Xj@t@~@VP|HvJrIjKN^DRDf@ATHBNDTDRFz@x@xDtE~DbFrF`HNJ|CrDrl@pt@|V`[dEjFh]zb@hYb^pClDr@|@@J@Jz@dApBzBRNdEbFnEpFnH~IjEfFjCbD~@dAbBxBzEhGfLlN~@fA~@nAjIlKvK`NjApAx@|@h@z@|@hAdo@pw@tAvBr@`BZhAV|AHlAFnBJxIA`DJHJT@XCVCFV\\h@r@j@h@~@l@`B|@lCjAxAj@nQbJtT|Kxc@jUjAh@tk@dZp@f@j@`AZv@n@dB^bAVb@z@~@j@^z@ZbLhBx@H~@CrYkA~AKp@MfA_@`Am@xAoAnAcAtPqMxGyIdBqBXYf@Yl@Mb@Ab@Fj@Vt@~@`AtCzGjZp@tCDEJCLBLH`B_BlA_AvKiIjB_BjCgC|IqIbCkB`KwG"
+         },
+         "summary" : "Postweg and Nieuwlanderweg",
+         "warnings" : [
+            "Bicycling directions are in beta. Use caution – This route may contain streets that aren't suited for bicycling."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
